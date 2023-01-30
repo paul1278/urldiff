@@ -3,9 +3,10 @@ A very small script which compares the state of URLS based on `md5`. If the stat
 
 ## Install requirements
 * bash
-* diff
-* md5sum
+* curl
 * sed
+* md5sum
+* diff
 
 ## Setup
 Place the files inside a folder.
